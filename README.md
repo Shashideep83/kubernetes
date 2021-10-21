@@ -2,5 +2,5 @@
 
 
 **Installing Cluster Tree**
-  - https://github.com/Shashideep83/kubernetes/tree/main/installing%20cluster
+  - https://github.com/shashi-deep/kubernetes/tree/main/installing%20cluster
  
